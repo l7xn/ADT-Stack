@@ -5,7 +5,7 @@ public class Stack {
 
 public Stack() {
 		Top=null;
-	}    
+	}
 public void push(int e) {
 
 		Node n = new Node();
